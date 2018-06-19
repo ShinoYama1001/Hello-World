@@ -3,5 +3,3 @@
 masterで書き足した
 
 branchで書き足した
-
-もういっちょbranchで書き足した
